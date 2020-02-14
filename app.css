@@ -11,11 +11,11 @@ h1 {
 body {
     background-color: #F69680;
     color:#2E1263;
-    font-family: "Source Code Pro"
+    font-family: "Source Code Pro";
     font-weight: 200;
 }
 
-img{
+img {
     height: 500px;
     border-radius: 50%; 
 }
@@ -28,7 +28,7 @@ img{
     height: 100vh;
 }
 
-button{
+button {
     margin: 30px auto 0;
     padding: 20px 25px;
     background-color: #F69680;
@@ -49,6 +49,6 @@ button:hover {
     text-decoration: underline;
 }
 
-p{
+p {
     font-size: 20px;
 }
