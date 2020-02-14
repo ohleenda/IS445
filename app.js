@@ -7,7 +7,7 @@ var pics = [
 	"imgs/kitty_wall.jpg"
 ];
 
-var btn = document.querySelector("button")
+var btn = document.querySelector("button");
 var img = document.querySelector("img");
 var counter = 1;
 
